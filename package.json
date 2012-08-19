@@ -1,0 +1,14 @@
+{
+  "name": "juggernaut",
+  "version": "2.0.27-jam",
+  "description" : "Realtime PubSub server push.",
+  "homepage": "http://github.com/kebot/juggernaut-client",
+  "main": "juggernaut.js",
+  "repositories": [
+    {
+      "type": "git", 
+      "url": "http://github.com/kebot/juggernaut-client.git"
+    }
+  ],
+  "github": "http://github.com/kebot/juggernaut-client"
+}
